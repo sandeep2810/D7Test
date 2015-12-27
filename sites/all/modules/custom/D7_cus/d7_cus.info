@@ -1,0 +1,6 @@
+name = Drupal 7 Custom
+description = "Drupal 7 Custom module <br> Practise Purpose to Annotate nodes."
+package = My Customm
+core = 7.x
+files[] = d7_cus.module
+configure = admin/config/content/d7_cus/settings
